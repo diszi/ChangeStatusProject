@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="status">
+        <item>QUEUED</item>
+        <item>INPROG</item>
+        <item>PENDING</item>
+        <item>SLAHOLD</item>
+        <item>RESOLVED</item>
+        <item>CLOSED</item>
+    </string-array>
+
+
+</resources>
